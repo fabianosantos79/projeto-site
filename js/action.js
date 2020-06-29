@@ -1,1 +1,1 @@
-window.onload(alert('Olá mundo.'));
+window.onload = alert('Olá mundo.');
